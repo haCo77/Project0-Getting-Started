@@ -3,12 +3,29 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Jiangping Xu
+  * [LinkedIn](https://www.linkedin.com/in/jiangping-xu-365b19134/)
+* Tested on: Windows 10, i7-4700MQ @ 2.40GHz 8GB, GT 755M 6100MB (personal laptop)
+            For the part 2.3 DXR, I use the SigLab computer instead.
 
-### (TODO: Your README)
+* Part 2.2: WebGL
+the output of `chrome:\\gpu`
+![](images/Chrome_GPU.png)
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+* Part2.3: DXR
+modified triangle
+![](images/DXR_Triangle.png)
+
+* Part 4: Modify
+test program with my name on the title
+![](images/CudaTest.png)
+
+* Part 5: Analyze
+Timeline
+![](images/timeline.png)
+
+* Part 6: Nsight Debugging
+*Autos* window and the *CUDA Info* -> *Warp*
+![](images/debugging.png)
+
 
