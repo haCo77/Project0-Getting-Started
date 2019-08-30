@@ -6,7 +6,7 @@ Project 0 Getting Started
 * Jiangping Xu
   * [LinkedIn](https://www.linkedin.com/in/jiangping-xu-365b19134/)
 * Tested on: Windows 10, i7-4700MQ @ 2.40GHz 8GB, GT 755M 6100MB (personal laptop) \
-            For the part 2.3 DXR, I use the SigLab computer instead.
+            Windows 10, i9-8950HK @ 2.90GHz 32GB, GTX 1070 8G (For the part 2.3 DXR, SigLab computer) \ 
 
 * Part 2.2: WebGL \
 the output of `chrome:\\gpu` \
